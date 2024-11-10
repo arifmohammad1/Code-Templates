@@ -1,4 +1,4 @@
-// selection sort
+// insertion sort
 class Solution {
     public int[] sortArray(int[] nums) {
         int n = nums.length;
